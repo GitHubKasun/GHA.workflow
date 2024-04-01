@@ -1,5 +1,5 @@
 
-name: Node.js CI - with cache
+name: Node.js CI - with cache-local
 
 on:
   workflow_dispatch:
